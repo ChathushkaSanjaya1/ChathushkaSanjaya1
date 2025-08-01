@@ -66,6 +66,8 @@
 <a href="https://www.linkedin.com/in/chathushka-sanjaya-0604a7329/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ChathushkaSanjaya" height="50" width="50" /></a>
 <a href="https://web.facebook.com/profile.php?id=61574134659673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chathushka Sanjaya" height="50" width="50" /></a>
 <a href="https://www.instagram.com/chathushka_sanjaya__?igsh=MXYyZXdwOWUyamRlZg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="chathushka_sanjaya__" height="50" width="50" /></a>
+<a href="mailto:chathushkasanjaya.1124@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="50" width="50" /></a>
 </p>
 
 ---
