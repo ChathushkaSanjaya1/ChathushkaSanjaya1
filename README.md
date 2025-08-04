@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Chathushka Sanjaya</h1>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?[font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Code+Lover+and+Bug+Fixer+%F0%9F%91%BB;Turning+Ideas+into+Web+Reality+%F0%9F%8E%A8;Building+Better+Bit+by+Bit+%F0%9F%92%8E"></a>
-</p
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=FACC15&lines=Code+Lover+and+Bug+Fixer+%F0%9F%91%BB;Turning+Ideas+into+Web+Reality+%F0%9F%8E%A8;Building+Better+Bit+by+Bit+%F0%9F%92%8E" alt="Typing SVG" />
+</p>
   
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
