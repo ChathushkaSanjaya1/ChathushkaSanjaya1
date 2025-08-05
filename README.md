@@ -10,7 +10,10 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ChathushkaSanjaya1&label=Profile%20views&color=0e75b6&style=flat" alt="ChathushkaSanjaya1" /> </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=ChathushkaSanjaya1&label=Profile%20views&color=0e75b6&style=flat" alt="ChathushkaSanjaya1" /> 
+	<img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+</p>
 
 ## 👀 About Me
 
